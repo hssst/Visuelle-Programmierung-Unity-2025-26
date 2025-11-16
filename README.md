@@ -3,11 +3,11 @@ Projekt immer mit aktuellem Datum hochladen.
 
 Zuerst: Gesamtes Unity-Projekt einmalig hochladen + alle 4 klonen das Repo einmalig mit “Clone a repository”.
 
-Jede Änderung läuft so:
+Jede Änderung läuft so: (alles im geklonten Ordner)
 
 git pull → Änderungen der anderen holen
 
-Unity öffnen → entwickeln
+Unity öffnen → entwickeln (immer im geklonten Ordner)
 
 git add .
 
